@@ -1,0 +1,3 @@
+[console_scripts]
+pwHash = pwHash.__main__:hashThis
+
